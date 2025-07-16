@@ -127,6 +127,70 @@
           "accessibility_text": "pointer_right"
         }
       ]
+    },
+    {
+      "identifier": "4",
+      "name": "Linda Emotes",
+      "publisher": "EnzoDeg40",
+      "tray_image_file": "tray_Cuppy.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://edstudio.fr/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Linda_joy.webp",
+          "emojis": ["😄"],
+          "accessibility_text": "joy"
+        },
+        {
+          "image_file": "02_Linda_angry.webp",
+          "emojis": ["😠"],
+          "accessibility_text": "angry"
+        },
+        {
+          "image_file": "03_Linda_sob.webp",
+          "emojis": ["😭"],
+          "accessibility_text": "sob"
+        },
+        {
+          "image_file": "04_Linda_thinking.webp",
+          "emojis": ["🤔"],
+          "accessibility_text": "thinking"
+        },
+        {
+          "image_file": "05_Linda_sleep.webp",
+          "emojis": ["😴"],
+          "accessibility_text": "sleep"
+        },
+        {
+          "image_file": "06_Linda_surprised.webp",
+          "emojis": ["😲"],
+          "accessibility_text": "surprised"
+        },
+        {
+          "image_file": "07_Linda_kiss.webp",
+          "emojis": ["😘"],
+          "accessibility_text": "kiss"
+        },
+        {
+          "image_file": "08_Linda_victory.webp",
+          "emojis": ["✌️"],
+          "accessibility_text": "victory"
+        },
+        {
+          "image_file": "09_Linda_sad.webp",
+          "emojis": ["☹️"],
+          "accessibility_text": "sad"
+        },
+        {
+          "image_file": "10_Linda_choqued.webp",
+          "emojis": ["😮"],
+          "accessibility_text": "shocked"
+        }
+      ]
     }
   ]
 }
